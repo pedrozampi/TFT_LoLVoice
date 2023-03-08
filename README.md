@@ -20,5 +20,3 @@ It needs some polishment as it found on some limitations of the libraries or the
 ## Autores
 
 - [@pedrozampi](https://github.com/pedrozampi)
-
-# TFT_LoLVoice
