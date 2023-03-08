@@ -17,6 +17,6 @@ From keywords in Portuguese(pt-br) listen by [Speech Recognition](https://pypi.o
 
 The script isn't something you would use in a competitive way because its speed on recognition, its something to be used as fun way to play or to do some actions without having to get your mouse or keyboard. This isn't meant to be used as some exploitation or advantage in the game.
 It needs some polishment as it found on some limitations of the libraries or their interaction in the game.
-## Autors
+## Authors
 
 - [@pedrozampi](https://github.com/pedrozampi)
